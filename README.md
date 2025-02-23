@@ -1,0 +1,1 @@
+El unico requisito para que la app funcione correctamente es correrlo en un dispositivo emulado de tipo "Pixel" con sus dimensiones por defecto. Con otras dimensiones, el layout de los botones se desacomoda
