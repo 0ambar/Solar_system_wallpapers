@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@drawable/solar_system"
+        android:gravity="top|center" >
+
+
+    <Button
+            android:id="@+id/sunBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="110dp"
+            android:layout_marginTop="61dp"
+            android:background="@android:color/transparent" />
+
+    <Button
+            android:id="@+id/mercuryBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:layout_marginTop="68dp"
+            android:background="@android:color/transparent" />
+
+    <Button
+            android:id="@+id/venusBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:layout_marginTop="40dp"
+            android:background="@android:color/transparent" />
+
+    <Button
+            android:id="@+id/earthBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:layout_marginTop="37dp"
+            android:background="@android:color/transparent" />
+
+    <Button
+            android:id="@+id/marsBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:layout_marginTop="52dp"
+            android:background="@android:color/transparent" />
+
+    <Button
+            android:id="@+id/jupiterBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_marginTop="38dp"
+            android:background="@android:color/transparent" />
+
+    <Button
+            android:id="@+id/saturnBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="75dp"
+            android:layout_marginTop="50dp"
+            android:background="@android:color/transparent" />
+
+    <Button
+            android:id="@+id/uranusBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:layout_marginTop="48dp"
+            android:background="@android:color/transparent" />
+
+    <Button
+            android:id="@+id/neptuneBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="25dp"
+            android:layout_marginTop="50dp"
+            android:background="@android:color/transparent" />
+
+    <Button
+            android:id="@+id/plutonBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:layout_marginTop="33dp"
+            android:background="@android:color/transparent" />
+
+
+</LinearLayout>
